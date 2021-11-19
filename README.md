@@ -13,8 +13,9 @@ Um repositório criado para mostrar minhas soluções para os desafios propostos
 
 #### Semana I: 
 
-🥇 Classificação : 103.236º<br>
-👉 Pontos        :  76,9492
+🥇 Classificação       : 103.236º<br>
+👉 Pontos              :  76,9492<br>
+📝 Desafios resolvidos : none.
 
  
 
