@@ -14,6 +14,10 @@ Um repositório criado para mostrar minhas soluções para os desafios propostos
  - Para a solução de cada desafio, foi utilizada a linguagem de programação **Java** ☕.
  - Meu perfil Beecrowd: https://www.beecrowd.com.br/judge/pt/profile/489556. 
 
+### Desempenho:
+
+🏆 Classificação atual: 103.236º || 👉 Pontos atuais: 76,9492
+
 ### Evolução:
 
 #### Semana I: 
