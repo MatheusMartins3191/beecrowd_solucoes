@@ -1,4 +1,4 @@
-# Soluções Beecrowd 🐝 🧑‍🤝‍🧑 
+# Soluções Beecrowd 🐝 🧑‍🤝‍🧑 ![logo_beecrowd](https://github.com/MatheusMartins3191/beecrowd_solucoes/icone_beecrowd.PNG)
 ## Um repositório criado para mostrar minhas soluções para os desafios propostos na plataforma Beecrowd.
 
 ### Características: 
