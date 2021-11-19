@@ -1,6 +1,6 @@
-![logo_beecrowd](https://github.com/MatheusMartins3191/beecrowd_solucoes/blob/master/icone_beecrowd.PNG)
+<center>![logo_beecrowd](https://github.com/MatheusMartins3191/beecrowd_solucoes/blob/master/icone_beecrowd.PNG)<center>
 
-# Soluções Beecrowd 🐝 🧑‍🤝‍🧑 
+<center># Soluções Beecrowd 🐝 🧑‍🤝‍🧑<center> 
 ## Um repositório criado para mostrar minhas soluções para os desafios propostos na plataforma Beecrowd.
 
 ### Características: 
