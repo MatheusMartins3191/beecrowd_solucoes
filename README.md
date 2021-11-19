@@ -1,4 +1,4 @@
-<center>![logo_beecrowd](https://github.com/MatheusMartins3191/beecrowd_solucoes/blob/master/icone_beecrowd.PNG)</center>
+<p style="text-align: 'center'>![logo_beecrowd](https://github.com/MatheusMartins3191/beecrowd_solucoes/blob/master/icone_beecrowd.PNG)</p>
 
 # Soluções Beecrowd 🐝 🧑‍🤝‍🧑
 
