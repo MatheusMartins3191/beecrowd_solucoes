@@ -1,0 +1,70 @@
+/*
+    Desafio Bee 1000 : Área
+
+    Escreva um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e
+    mostre:
+
+        a) a área do triângulo retângulo que tem A por base e C por altura.
+        b) a área do círculo de raio C. (pi = 3.14159)
+        c) a área do trapézio que tem A e B por bases e C por altura.
+        d) a área do quadrado que tem lado B.
+        e) a área do retângulo que tem lados A e B.
+
+    Entrada:
+
+        O arquivo de entrada contém três valores com um dígito após o ponto decimal.
+
+    Saída:
+
+        O arquivo de saída deverá conter 5 linhas de dados. Cada linha corresponde a uma das áreas descritas acima,
+    sempre com mensagem correspondente e um espaço entre os dois pontos e o valor. O valor calculado deve ser
+    apresentado com 3 dígitos após o ponto decimal.
+
+    Situação: Aceito.
+
+ */
+
+package semana_II;
+
+import java.util.Scanner;
+
+public class bee_1012_Aceito {
+
+    public static void main(String[] args) {
+
+        Scanner input = new Scanner( System.in );
+
+        double a = input.nextDouble();
+        double b = input.nextDouble();
+        double c = input.nextDouble();
+        double area;
+
+        // Área do triângulo retângulo que tem A por base e C por altura:
+
+        area = (a * c) / 2.0;
+        System.out.printf("TRIANGULO: %.3f\n", area);
+
+        // Área do círculo de raio C. (pi = 3.14159):
+
+        double pi = 3.14159;
+        area = pi * Math.pow(c, 2);
+        System.out.printf("CIRCULO: %.3f\n", area);
+
+        // Área do trapézio que tem A e B por bases e C por altura:
+
+        area = ((a + b) * c) / 2;
+        System.out.printf("TRAPEZIO: %.3f\n", area);
+
+        // Área do quadrado que tem lado B:
+
+        area = Math.pow(b, 2);
+        System.out.printf("QUADRADO: %.3f\n", area);
+
+        // Área do retângulo que tem lados A e B:
+
+        area = a * b;
+        System.out.printf("RETANGULO: %.3f\n", area);
+
+    }
+
+}
