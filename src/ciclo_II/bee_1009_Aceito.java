@@ -21,7 +21,7 @@
 
  */
 
-package semana_II;
+package ciclo_II;
 import java.util.Scanner;
 
 public class bee_1009_Aceito {

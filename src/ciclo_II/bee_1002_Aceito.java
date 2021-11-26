@@ -21,7 +21,7 @@
 
  */
 
-package semana_II;
+package ciclo_II;
 import java.util.Scanner;
 import java.lang.Math;
 

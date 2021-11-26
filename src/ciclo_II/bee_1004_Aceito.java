@@ -18,8 +18,7 @@
 
  */
 
-package semana_II;
-import java.sql.SQLOutput;
+package ciclo_II;
 import java.util.Scanner;
 
 public class bee_1004_Aceito {

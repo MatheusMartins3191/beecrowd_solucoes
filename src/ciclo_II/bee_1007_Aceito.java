@@ -17,11 +17,10 @@
 
  */
 
-package semana_II;
+package ciclo_II;
 
 //Importações:
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class bee_1007_Aceito {

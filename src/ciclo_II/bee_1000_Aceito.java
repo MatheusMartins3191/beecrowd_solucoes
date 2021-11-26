@@ -7,7 +7,7 @@
 
  */
 
-package semana_II;
+package ciclo_II;
 
 public class bee_1000_Aceito {
 
