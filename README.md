@@ -20,7 +20,7 @@ Um repositório criado para mostrar minhas soluções para os desafios propostos
 
 ### Evolução:
 
-### Ciclo II:
+#### Ciclo II:
 
 🥇 Classificação       : 103.550 <br>
 👉 Pontos              :  76,9492<br>
