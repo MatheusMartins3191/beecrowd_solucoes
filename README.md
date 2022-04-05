@@ -16,9 +16,16 @@ Um repositório criado para mostrar minhas soluções para os desafios propostos
 
 ### Desempenho:
 
-🏆 Classificação atual: 46.279 || 👉 Pontos atuais: 164,1674
+🏆 Classificação atual: 32.917º || 👉 Pontos atuais: 208,1469
 
 ### Evolução:
+
+#### Ciclo VI:
+
+🥇 Classificação       : 32.917º <br>
+👉 Pontos              : 208,1469 <br>
+📝 Desafios resolvidos : 1079 - 1080 - 1094 - 1095 - 1096 - 1097 - 1098 - 1099 - 1101 - 1113 - 1114 - 1115 - 1116
+                          1117 - 1118 - 1131 - 1132 - 1133 - 1134 - 1142 - 1143 - 1144
 
 #### Ciclo V:
 
